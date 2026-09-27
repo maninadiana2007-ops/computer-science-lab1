@@ -141,6 +141,7 @@ CSS-классы: s__xQ1HLgn_xwmIN8uv, s__mHigRYQNLncSEc34, s__jXT46eCTgj7KXyZ4,
 Текст элемента: «Найти билеты».
 Вложенные элементы: <div data-test-id="text">Найти билеты</div> 
 Скриншот HTML-структуры: 
+:[3.1](https//:github.com/maninadiana2007-ops/computer-science-lab1/blob/main/3.1.jpg)
 
 ## 3.2 Исследование CSS
 Для выбранного элемента были обнаружены CSS-классы, определяющие его внешний вид и положение на странице.
