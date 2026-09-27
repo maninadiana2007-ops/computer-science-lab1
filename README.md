@@ -157,6 +157,10 @@ CSS-классы: s__xQ1HLgn_xwmIN8uv, s__mHigRYQNLncSEc34, s__jXT46eCTgj7KXyZ4,
 |inset	          |Задаёт отступы от краёв контейнера                 |
 |transition	      |Определяет плавность изменения стилей при наведении|
 |cursor	          |Определяет вид курсора при наведении               |
+<img width="1104" height="185" alt="image" src="https://github.com/user-attachments/assets/4897a566-4c84-4fc6-9af1-09c3c09e309c" />
+<img width="1113" height="85" alt="image" src="https://github.com/user-attachments/assets/e9bffa7a-c8e1-4763-9793-ef0e39a0ee57" />
+
+
 
 ### 3.3. Исследование JavaScript
 
@@ -174,6 +178,8 @@ JavaScript используется для реализации интеракт
 При нажатии на кнопку «Найти билеты» интерфейс реагирует на действие пользователя и запускает загрузку результатов поиска.
 
 Скриншот загруженных JavaScript-файлов: 
+<img width="1280" height="617" alt="image" src="https://github.com/user-attachments/assets/df3f0aa2-70ee-410e-b805-acb4f948c5f2" />
+
 
 ### 3.4. Загружаемые ресурсы
 
@@ -217,6 +223,8 @@ JavaScript используется для реализации интеракт
 - Статус: 200 OK
 - Данные запроса: идентификатор поиска (search_id), лимит результатов (limit), состояние фильтров (filters_state)
 - Ответ: данные о найденных рейсах и ценах в формате JSON
+ <img width="1280" height="616" alt="image" src="https://github.com/user-attachments/assets/03eaef9b-d6fb-4810-b4af-d352da2b6e21" />
+
 
 ### 3.7. Вывод
 
@@ -294,7 +302,8 @@ JavaScript используется для реализации интеракт
 
 API позволяет клиентской части отправлять данные на сервер и получать результат обработки.
 
-скрин
+<img width="1280" height="822" alt="image" src="https://github.com/user-attachments/assets/33c2d521-0bb2-469c-8c1c-92f2e58a2e87" />
+
 ### 4.4. Внешние сервисы
 
 При работе Aviasales браузер может обращаться не только к основному домену системы, но и к другим доменам.
